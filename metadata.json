@@ -1,0 +1,8 @@
+{
+  "name": "Ratab AI",
+  "description": "Smart hydration for focused people. Ratab AI helps students and office employees drink water effortlessly through real intake tracking and gentle, non-disruptive reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
